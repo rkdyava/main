@@ -1,6 +1,7 @@
 ## Portfolio
 ##CV
-(/pdf/sample_presentation.pdf)
+
+[CV](/pdf/sample_presentation.pdf)
 ---
 
 ### Projects
