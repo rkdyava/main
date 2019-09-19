@@ -11,8 +11,8 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Design and Protyping of an HF RFID Reader Antenna](/pdf/sample_presentation.pdf)
+<img src="images/RF_Antenna.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
