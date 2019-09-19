@@ -1,7 +1,7 @@
 ## Portfolio
-##CV
 
-[CV](/pdf/sample_presentation.pdf)
+
+[CV](/pdf/Dyava.pdf)
 ---
 
 ### Projects
