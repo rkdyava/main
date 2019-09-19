@@ -8,8 +8,8 @@
 
 [Direct physical human-robot Interfaction using Tactile Feedback]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<br/>
-<a href="https://www.linkedin.com/in/rama-krishna-reddy-dyava/">path 
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
