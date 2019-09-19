@@ -6,7 +6,7 @@
 
 ### Projects
 
-[Direct physical human-robot Interfaction using Tactile Feedback]
+[Direct physical human-robot Interfaction using Tactile Feedback](/pdf/Dyava.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
