@@ -15,7 +15,7 @@
 <img src="images/RF_Antenna.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
